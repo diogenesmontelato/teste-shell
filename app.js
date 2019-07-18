@@ -1,4 +1,3 @@
-alert("Bem Vindo!!!");
-console.log("Mais um teste!!!");
 
-
+	alert("Bem Vindo!!!");
+	consolo.log("Treinamento de Git!!!");
